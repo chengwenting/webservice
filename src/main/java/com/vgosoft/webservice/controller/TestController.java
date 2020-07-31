@@ -5,5 +5,7 @@ package com.vgosoft.webservice.controller;
  * @Author Administrator
  * @Date 2020/7/31 14:05
  */
+@RestController
 public class TestController {
+  
 }
